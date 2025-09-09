@@ -7,6 +7,7 @@
   body {
     font-family: 'Garamond', Times, serif;
     background: url('background.jpg');
+    background-size: cover;
     color: white;
     padding: 2rem;
     line-height: 1.6;
